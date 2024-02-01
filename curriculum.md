@@ -30,8 +30,8 @@
 
 - [ ] Introduction to Web Accessibility ([↗](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home))
 
-  - [ ] Course Information
-  - [ ] Module 1: What is Web Accessibility
+  - [x] Course Information
+  - [x] Module 1: What is Web Accessibility
   - [ ] Module 2: People & Digital Technology
   - [ ] Module 3: Business Cases & Benefits
   - [ ] Module 4: Principles, Standards, & Checks
